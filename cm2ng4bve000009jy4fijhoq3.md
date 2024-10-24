@@ -215,7 +215,7 @@ Let’s write some data into the first container and see if the second container
     
     ### Why is the Container Not Running?
     
-    You are using the `busybox` image, which is a minimal container that runs a shell command and exits immediately. Since `busybox` doesn’t have a long-running process by default, the container starts, completes the task (if any), and then stops.
+    using the `busybox` image, which is a minimal container that runs a shell command and exits immediately. Since `busybox` doesn’t have a long-running process by default, the container starts, completes the task (if any), and then stops.
     
     ## **If you are facing any problems, here are some solutions:**
     
@@ -297,7 +297,6 @@ To remove the volume, use:
     docker stop container2
     ```
     
-
 * after remove all container:
     
     ```bash
