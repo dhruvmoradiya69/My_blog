@@ -4,7 +4,7 @@ datePublished: Thu Oct 24 2024 15:16:12 GMT+0000 (Coordinated Universal Time)
 cuid: cm2ng4bve000009jy4fijhoq3
 slug: a-step-by-step-guide-to-docker-volumes-and-networks
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1729779188465/62e405cc-182f-40cc-b55e-14d80afb43ea.webp
-tags: docker-compose, docker-network, docker-volume, 90daysofdevops
+tags: devops, docker-compose, docker-network, docker-volume, 90daysofdevops
 
 ---
 
